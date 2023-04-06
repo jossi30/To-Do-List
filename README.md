@@ -63,11 +63,11 @@ Clone this repository to your desired folder: https://github.com/jossi30/To-Do-L
 
 ### Install <a name="install"></a>
 
-git clone https://github.com/jossi30/To-Do-List.git
+npm install git+ https://github.com/jossi30/To-Do-List.git
 
 ### Usage <a name="usage"></a>
 
-To run the project, execute the following command: Click on Live server option in your IDE
+To run the project, execute the following command: npm start
 
 ## 👥 Authors <a name="authors"></a>
 
